@@ -1,0 +1,1 @@
+{"palettes": "palette_colors"}
